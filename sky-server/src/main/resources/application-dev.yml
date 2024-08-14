@@ -1,0 +1,16 @@
+sky:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    host: localhost
+    port: 3308
+    database: sky_take_out
+    username: root
+    password: 1234
+  redis:
+    host: localhost
+    port: 6379
+    password: 1234
+    database: 0
+  wechat:
+    appid: wx3840a8b9373335fd
+    secret: 11513c0d9bac37e5ff2b4026a0431eb8
